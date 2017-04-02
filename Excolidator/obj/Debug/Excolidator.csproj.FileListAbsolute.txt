@@ -1,0 +1,9 @@
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Excolidator\Excolidator\bin\Debug\Excolidator.exe.config
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Excolidator\Excolidator\bin\Debug\Excolidator.exe
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Excolidator\Excolidator\bin\Debug\Excolidator.pdb
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Excolidator\Excolidator\obj\Debug\Excolidator.MainForm.resources
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Excolidator\Excolidator\obj\Debug\Excolidator.Properties.Resources.resources
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Excolidator\Excolidator\obj\Debug\Excolidator.csproj.GenerateResource.Cache
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Excolidator\Excolidator\obj\Debug\Excolidator.exe
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Excolidator\Excolidator\obj\Debug\Excolidator.pdb
+C:\Users\RRR\Documents\Visual Studio 2015\Projects\Excolidator\Excolidator\obj\Debug\Excolidator.csprojResolveAssemblyReference.cache
